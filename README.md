@@ -1,4 +1,4 @@
-# NOTE:**This theme is trickly for macOS Sonoma 14.5**
+# NOTE:**This theme is strictly for macOS Sonoma 14.5**
 
 # AquaLickX for macOS Sonoma 14.5
 **A macOS Sonoma 14.5 theme that has some Aqua elements in it**
@@ -72,7 +72,7 @@ type `sudo reboot` in the existing Terminal window
 ---
 
 ### **TO DO:**
-What ever feedback comes - if I feel they are valid.
+What ever feedback comes - if I feel it is valid.
 
 Adding striped image to the Finder toolbar is a thing for an alternate version as the way it appears macOS deals with images is a bit strange.
 
